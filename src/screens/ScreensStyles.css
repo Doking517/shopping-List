@@ -1,0 +1,61 @@
+*:focus {
+  outline: none;
+}
+
+.first-page {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+/* second page */
+.second-page {
+  width: 100%;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-buttons {
+  width: 100%;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.shopping-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+/* thirdScreen */
+.thirdScreen-container {
+  width: 100%;
+  height: 40%;
+  gap: 2em;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  padding: 0 1em;
+}
+
+.image-empty{
+  padding-left: 4em;
+}
+.thirdScreen-container .bottom{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3em;
+}
+
+.fourth-page-container{
+  width: 100%;
+  height: inherit;
+  padding: 0 1em;
+}
