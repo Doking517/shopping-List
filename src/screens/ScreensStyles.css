@@ -22,6 +22,9 @@
     margin-top: 1.7em;
     
   }
+  .fourth-page-container{
+    margin-top: 1.5em;
+  }
 }
 
 .form-buttons {
@@ -64,4 +67,5 @@
   width: 100%;
   height: inherit;
   padding: 0 1em;
+  
 }
