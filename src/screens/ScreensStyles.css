@@ -17,6 +17,12 @@
   flex-direction: column;
   justify-content: center;
 }
+@media only screen and (max-width:448px ) {
+  .thirdScreen-container{
+    margin-top: 1.7em;
+    
+  }
+}
 
 .form-buttons {
   width: 100%;
